@@ -1,0 +1,10 @@
+{
+  "name": "pruijs.nl",
+  "version": "1.0.0",
+  "description": "Jurriaan Pruijs's website",
+  "author": "Jurriaan Pruijs",
+  "devDependencies": {
+  	"gulp": "^3.9.0",
+  	"gulp-sass": "^2.1.0"
+  }
+}
